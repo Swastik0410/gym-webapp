@@ -46,7 +46,7 @@ function Landing() {
           </Link>
           <Link
             to="/contact"
-            className="px-6 py-3 rounded-xl border border-white/20 text-slate-200 hover:border-brand-400/60 hover:text-brand-300 transition"
+            className="px-6 py-3 rounded-xl border border-white/20 text-slate-200 hover:border-brand-400/60 hover:text-brand-300 transition hover:bg-blue-900"
           >
             ✉️ Contact Us
           </Link>
