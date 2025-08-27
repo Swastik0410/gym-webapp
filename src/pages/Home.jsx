@@ -17,7 +17,7 @@ function Home() {
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-4">🏋️ Search Exercises</h1>
+      <h1 className="text-3xl font-bold mb-4">Search your Exercises</h1>
       <SearchBar setSearch={setSearch} />
       <ExerciseList exercises={exercises} />
     </div>
