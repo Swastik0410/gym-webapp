@@ -11,7 +11,7 @@ function Landing() {
       <section className="flex-1 flex flex-col justify-center items-center text-center px-6 relative overflow-hidden">
         {/* Gradient blobs */}
         <div className="">
-            <img className="h-50" src="/front.jpg" alt="" />
+            <img className="h-50" src="/front.jpg" alt="img" />
         </div>
         <div className="absolute inset-0 -z-10">
           <div className="absolute top-0 left-1/2 w-[40rem] h-[40rem] -translate-x-1/2 bg-brand-500/20 blur-[160px] rounded-full"></div>
