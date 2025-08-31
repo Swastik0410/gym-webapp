@@ -24,7 +24,7 @@ function Landing() {
           transition={{ duration: 0.7 }}
           className="text-5xl sm:text-6xl font-extrabold tracking-tight bg-gradient-to-r from-brand-400 to-brand-200 text-transparent bg-clip-text"
         >
-          Transform Your Fitness Journey
+          Transform Your Fitness Journey with our Exercize guide
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
